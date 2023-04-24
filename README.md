@@ -6,4 +6,4 @@
 
 * Play TicTacToe with ArtFixBot.
 
-Thanks
+Support project https://ko-fi.com/arthurstep.
