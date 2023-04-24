@@ -1,9 +1,9 @@
 # TicTacToe
 
----
+* A game of TicTacToe, you can play with it.
 
-# BOOM AGAIN 🤯 💥 
+* No time limits for game.
 
----
+* Play TicTacToe with ArtFixBot.
 
-Play TicTacToe with ArtFixBot.
+Thanks
