@@ -1,9 +1,10 @@
 # TicTacToe
+Play TicTacToe with ArtFixBot.
 
-* A game of TicTacToe, you can play with it.
-
-* No time limits for game.
-
-* Play TicTacToe with ArtFixBot.
+# Features
+* Fast responses.
+* Offline
+* Often smart.
+* etc.
 
 Project by Arthur Stepanyan: https://github.com/ArthurStep.
